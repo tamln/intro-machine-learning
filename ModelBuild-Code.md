@@ -75,7 +75,8 @@ In this walkthrough we will be building a model. The flow of this walkthrough is
 
    ![Add Notebook](docs/images/newnotebook.png)
 
-1. Choose new notebook `From File`. Give your notebook a name and choose the notebook file from the downloaded repository (`intro-machine-learning/notebooks/sparkmodel.ipynb`).
+1. Choose new notebook `From File`. Give your notebook a name and choose the notebook file from the downloaded repository (`intro-machine-learning/notebooks/sparkmodel-CP4D.ipynb`).
+   Note: updated sparkmodel-CP4D.ipynb instead of sparkmodel.ipynb
 
 1. For `Runtime`, be sure to select the one starting with `Default Spark Python 3.6`, then click `Create Notebook`.
 
